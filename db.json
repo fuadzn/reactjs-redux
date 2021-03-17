@@ -1,0 +1,25 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "afiffudin",
+          "alamat": "Bubat",
+          "umur": 26,
+          "nohp": "0821382183781"
+        },
+        {
+          "id": 2,
+          "nama": "Alif",
+          "alamat": "Kircon",
+          "umur": 20,
+          "nohp": "08213822383781"
+        },
+        {
+          "id": 3,
+          "nama": "Indah",
+          "alamat": "Riung",
+          "umur": 26,
+          "nohp": "0821382183781"
+        }
+      ]
+}
